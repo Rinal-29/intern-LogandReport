@@ -17,4 +17,22 @@
 * tanggal 17 november mempelajari menggunakan relasi antar domain yang dapat terhubung dengan database mysql
 * tanggal 18 november mempelajari plugin springsecurity yang dapat digunakan untuk login authentication
 * tanggal 19 november mempelajari springsecurity untuk menentukan user dan userRole
-* tanggal 20 november mempelajari message properties  
+* tanggal 20 november mempelajari message properties
+
+## Aktivitas Minggu(4)
+* tanggal 23 november mempelajari internazionalitation mengggunakan tag message 
+* tanggal 24 november mempelajari url mapping untuk menerapkan internazionalitation 
+* tanggal 25 november menerapkan pengaturan bahasa pada grails
+* tanggal 26 november mempelajari jquery dan javascript validation
+* tanggal 27 november menerapkan validation menggunakan tag grails dan jquery validation
+
+## Aktivitas Minggu(5)
+* tanggal 30 november membuat userRole mahasiswa dengan menggunakan springsecurity
+* tanggal 1 desember membuat table krs mahasiswa, nilai mahasiswa, jadwal mahasiswa dan melakukan relasi dengan tabel admin
+* tanggal 2 desember menambahkan halaman tambah krs, pada halaman krs mahasiswa
+* tanggal 3 desember menambahkan krs mahasiswa ke domain mahasiswa berdasarkan user/ mahasiswa yg login
+* tanggal 4 desember menggunakan javasript untuk mendapatkan Jumlahtotalsks dan jumlah total matakuliah
+
+## Aktivitas Minggu(6)
+* tanggal 7 desember belajar git flow, javascript callback dan javascript promise
+* tanggal 8 desember belajar modified view grails dan ckeditor
