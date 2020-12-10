@@ -36,3 +36,4 @@
 ## Aktivitas Minggu(6)
 * tanggal 7 desember belajar git flow, javascript callback dan javascript promise
 * tanggal 8 desember belajar modified view grails dan ckeditor
+* tanggal 9 desember mencoba owlCarousel dan parallax library
