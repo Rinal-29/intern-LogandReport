@@ -7,6 +7,13 @@ model : merupakan bagian yang berkomunikasi dengan database
 view : merupakan bagian yang menampilkan halaman aplikasi
 controller : merupakan bagian yang menjembatani antara view dan model
 
+cms template : inspinia, adminLTE, sbAdmin
+
 environment 
-grails version: 3.1.3
+grails version : 3.1.3
+grails version : 3.3.11
 java virtual machine: 1.8
+command to switch sdk : use sdk grails version 
+
+data domain : domain yang tehubung dan berinteraksi langsung dengan database.
+domain model : merupakan sebuah repositori sementara yang digunkan untuk memanggil nilai-nilai di data domain dan lalu terhubung ke database.

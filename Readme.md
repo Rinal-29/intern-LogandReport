@@ -40,4 +40,4 @@
 * tanggal 11 desember date and timezone mapping menggunakan grails (simple date format)
 
 ## Aktivitas Minggu(7)
-* tanggal 14 
+* tanggal 14 desember mempelajarji domain model dan data domain pada grails
