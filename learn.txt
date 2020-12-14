@@ -1,0 +1,12 @@
+Apa itu grails ?
+adalah kerangka aplikasi web open source yang menggunakan bahasa pemrograman Apache Groovy (yang didasarkan pada platform Java). Ini dimaksudkan untuk menjadi kerangka kerja produktivitas tinggi dengan mengikuti paradigma "coding by convention", menyediakan lingkungan pengembangan yang berdiri sendiri dan menyembunyikan banyak detail konfigurasi dari pengembang.
+Grails sebelumnya dikenal sebagai "Groovy on Rails" pada Maret 2006 nama itu dicabut sebagai tanggapan atas permintaan David Heinemeier Hansson, pendiri kerangka Ruby on Rails. Pekerjaan dimulai pada Juli 2005, dengan rilis 0.1
+
+grails dibangun menggunakan pattern mvc (model,view,controller) dimana:
+model : merupakan bagian yang berkomunikasi dengan database
+view : merupakan bagian yang menampilkan halaman aplikasi
+controller : merupakan bagian yang menjembatani antara view dan model
+
+environment 
+grails version: 3.1.3
+java virtual machine: 1.8
