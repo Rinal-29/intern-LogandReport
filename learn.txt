@@ -17,3 +17,5 @@ command to switch sdk : use sdk grails version
 
 data domain : domain yang tehubung dan berinteraksi langsung dengan database.
 domain model : merupakan sebuah repositori sementara yang digunkan untuk memanggil nilai-nilai di data domain dan lalu terhubung ke database.
+
+cron job adalah sebuah script untuk mengeksekusi atau menjalankan sebuah perintah secara otomatis pada waktu dan tanggal yang telah ditentukan. cron adalah semacam penjadwalan tugas yang dapat sangat bermanfaat untuk mengerjakan task yang berulang secara otomatis.
