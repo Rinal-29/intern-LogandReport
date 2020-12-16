@@ -40,6 +40,8 @@
 * tanggal 11 desember date and timezone mapping menggunakan grails (simple date format)
 
 ## Aktivitas Minggu(7)
-* tanggal 14 desember mempelajari domain model dan data domain pada grails
+* tanggal 14 desember mempelajari domain model dan data domain pada grails. mempelajari apa itu cron
 * tanggal 15 desember memeplajari database crud dan date format by timezone.
-* tanggal 16 desember 
+* tanggal 16 desember mempelajari createCriteria dan where clause pada grails.
+* tanggal 17 desember 
+* tanggal 18 desember
