@@ -43,5 +43,10 @@
 * tanggal 14 desember mempelajari domain model dan data domain pada grails. mempelajari apa itu cron
 * tanggal 15 desember memeplajari database crud dan date format by timezone.
 * tanggal 16 desember mempelajari createCriteria dan where clause pada grails.
-* tanggal 17 desember 
-* tanggal 18 desember
+* tanggal 17 desember mempelajari CKEditor
+* tanggal 18 desember mempelakari url slug 
+
+## Aktivitas Minggu(8)
+* tanggal 21 desember
+* tanggal 22 desember 
+* tanggal 23 desember
