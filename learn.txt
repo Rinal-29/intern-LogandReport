@@ -21,3 +21,14 @@ domain model : merupakan sebuah repositori sementara yang digunkan untuk memangg
 cron job adalah sebuah script untuk mengeksekusi atau menjalankan sebuah perintah secara otomatis pada waktu dan tanggal yang telah ditentukan. cron adalah penjadwalan tugas yang dapat sangat bermanfaat untuk mengerjakan tugas yang berulang secara otomatis.
 
 slug url merupakan bagian deskriptif yang terdapat pada akhir url sebuah website dan memiliki informasi yang berguna.
+
+#List
+List interface yang digunakan untuk membuat daftar elemen (objek) yang terkait dengan nomor indeksnya.
+Lit juga merupakan kumpulan elemen yang disimpan dalam urutan yang diidentifikasi dan diakses menggunakan indeks.
+
+#ArrayList
+adalah kelas yang digunakan untuke membuat array dinamis yang berisi objek.
+membuat larik objek yang dimana larik bisa bersifat dinamis.
+
+#recursive function
+digunakan untuk mengatasi nested for.

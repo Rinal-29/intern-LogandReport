@@ -47,6 +47,9 @@
 * tanggal 18 desember mempelakari url slug 
 
 ## Aktivitas Minggu(8)
-* tanggal 21 desember
-* tanggal 22 desember 
-* tanggal 23 desember
+* tanggal 21 desember grails updated slug, javascript dan jquery
+* tanggal 22 desember jquery validation
+* tanggal 23 desember memahami jquery validation dan for loop
+
+## Aktivitas Minggu(9)
+* tanggal 28 desember 
