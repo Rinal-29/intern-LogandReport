@@ -52,4 +52,7 @@
 * tanggal 23 desember memahami jquery validation dan for loop
 
 ## Aktivitas Minggu(9)
-* tanggal 28 desember 
+* tanggal 28 desember for loop dan mencoba recrusive function
+* tanggal 29 desember params on grails menggunakan GrailsParamsMap
+* tanggal 30 desember belajar javascript
+* tanggal 31 desember 
