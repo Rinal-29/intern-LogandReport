@@ -55,4 +55,6 @@
 * tanggal 28 desember for loop dan mencoba recrusive function
 * tanggal 29 desember params on grails menggunakan GrailsParamsMap
 * tanggal 30 desember belajar javascript
-* tanggal 31 desember 
+
+## Aktivitas Minggu(10)
+* tanggal 4 Januari belajar javascript
