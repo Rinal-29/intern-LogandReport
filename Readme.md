@@ -58,3 +58,6 @@
 
 ## Aktivitas Minggu(10)
 * tanggal 4 Januari belajar javascript
+* tanggal 5 Januari belajar javascript
+* tanggal 6 januari grails tag currency
+* tanggal 7 januari javascript
