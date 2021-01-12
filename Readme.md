@@ -44,7 +44,7 @@
 * tanggal 15 desember memeplajari database crud dan date format by timezone.
 * tanggal 16 desember mempelajari createCriteria dan where clause pada grails.
 * tanggal 17 desember mempelajari CKEditor
-* tanggal 18 desember mempelakari url slug 
+* tanggal 18 desember mempelajari url slug 
 
 ## Aktivitas Minggu(8)
 * tanggal 21 desember grails updated slug, javascript dan jquery
@@ -65,7 +65,7 @@
 
 ## Aktivitas Minggu(11)
 * tanggal 11 Januari javascript dan jquery
-* tanggal 12 Januari
+* tanggal 12 Januari data struktur dan mvc
 * tanggal 13 Januari
 * tanggal 14 Januari
 * tanggal 15 Januari
