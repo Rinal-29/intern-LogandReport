@@ -59,5 +59,13 @@
 ## Aktivitas Minggu(10)
 * tanggal 4 Januari belajar javascript
 * tanggal 5 Januari belajar javascript
-* tanggal 6 januari grails tag currency
+* tanggal 6 januari grails tag format currency
 * tanggal 7 januari javascript
+* tanggal 8 januari javascript, keditor, inline editor dan css.
+
+## Aktivitas Minggu(11)
+* tanggal 11 Januari javascript dan jquery
+* tanggal 12 Januari
+* tanggal 13 Januari
+* tanggal 14 Januari
+* tanggal 15 Januari
