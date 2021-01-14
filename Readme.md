@@ -66,6 +66,6 @@
 ## Aktivitas Minggu(11)
 * tanggal 11 Januari javascript dan jquery
 * tanggal 12 Januari data struktur dan mvc
-* tanggal 13 Januari
-* tanggal 14 Januari
-* tanggal 15 Januari
+* tanggal 13 Januari css 
+* tanggal 14 Januari Keditor dan CKEditor
+* tanggal 15 Januari 
