@@ -68,4 +68,10 @@
 * tanggal 12 Januari data struktur dan mvc
 * tanggal 13 Januari css 
 * tanggal 14 Januari Keditor dan CKEditor
-* tanggal 15 Januari 
+
+## Aktivitas Minggu(12)
+* tanggal 18 Januari Keditor dan CKEditor
+* tanggal 19 Januari 
+* tanggal 20 Januari
+* tanggal 21 Januari
+* tanggal 22 Januari
