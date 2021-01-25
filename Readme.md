@@ -72,6 +72,13 @@
 ## Aktivitas Minggu(12)
 * tanggal 18 Januari Keditor dan CKEditor
 * tanggal 19 Januari Keditor dan CKEditor
-* tanggal 20 Januari
+* tanggal 20 Januari Keditor dan CKEditor
 * tanggal 21 Januari
-* tanggal 22 Januari
+* tanggal 22 Januari Keditor dan CKEditor
+
+## aktivitas Minggu(13)
+* tanggal 25 Januari Keditor dan CKEditor
+* tanggal 26 Januari
+* tanggal 27 Januari
+* tanggal 28 Januari
+* tanggal 29 Januari
