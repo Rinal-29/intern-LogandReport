@@ -78,7 +78,7 @@
 
 ## aktivitas Minggu(13)
 * tanggal 25 Januari Keditor dan CKEditor
-* tanggal 26 Januari
-* tanggal 27 Januari
+* tanggal 26 Januari Kerja Laporan
+* tanggal 27 Januari Laporan Kerja Praktek
 * tanggal 28 Januari
 * tanggal 29 Januari
