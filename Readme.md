@@ -80,5 +80,5 @@
 * tanggal 25 Januari Keditor dan CKEditor
 * tanggal 26 Januari Kerja Laporan
 * tanggal 27 Januari Laporan Kerja Praktek
-* tanggal 28 Januari
-* tanggal 29 Januari
+* tanggal 28 Januari Laporan Kerja Praktek
+* tanggal 29 Januari Perpisahan
